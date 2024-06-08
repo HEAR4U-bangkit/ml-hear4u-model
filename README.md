@@ -27,11 +27,11 @@ Data Collecting ➡️ Sound Preprocessing ➡️ Creating Model ➡️ Deploy t
 
 ### Using CNN Architecture
 
-![CNN Graph](https://github.com/HEAR4U-bangkit/ml-hear4u-model/tree/main/archived_model/cnn_acc.png)
+![cnn_acc](https://github.com/HEAR4U-bangkit/ml-hear4u-model/tree/main/archived_model/cnn_acc.png)
 
 ### Using Pre-trained YAMNet Architecture
 
-![CNN Graph](https://github.com/HEAR4U-bangkit/ml-hear4u-model/tree/main/archived_model/yamnet_acc.png)
+![yamnet_acc](https://github.com/HEAR4U-bangkit/ml-hear4u-model/tree/main/archived_model/yamnet_acc.png)
 
 ## References
 

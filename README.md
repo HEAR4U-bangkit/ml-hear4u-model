@@ -27,13 +27,13 @@ Data Collecting ➡️ Sound Preprocessing ➡️ Creating Model ➡️ Deploy t
 
 ### Using CNN Architecture
 
-![cnn_acc](https://github.com/HEAR4U-bangkit/ml-hear4u-model/tree/main/archived_model/cnn_acc.png)
+![CNN Graph](https://github.com/HEAR4U-bangkit/ml-hear4u-model/blob/main/archived_model/cnn_acc.png)
 
 ### Using Pre-trained YAMNet Architecture
 
-![yamnet_acc](https://github.com/HEAR4U-bangkit/ml-hear4u-model/tree/main/archived_model/yamnet_acc.png)
+![YAMNet Graph](https://github.com/HEAR4U-bangkit/ml-hear4u-model/blob/main/final_model/yamnet_acc.png)
 
 ## References
 
-[Simple Audio Recognition](https://www.tensorflow.org/tutorials/audio/simple_audio)
-[Transfer learning with YAMNet for environmental sound classification](https://www.tensorflow.org/tutorials/audio/transfer_learning_audio)
+- [Simple Audio Recognition](https://www.tensorflow.org/tutorials/audio/simple_audio)
+- [Transfer learning with YAMNet for environmental sound classification](https://www.tensorflow.org/tutorials/audio/transfer_learning_audio)
